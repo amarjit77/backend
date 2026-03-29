@@ -1,0 +1,6 @@
+@CabTrack.API_HostAddress = http://localhost:5152
+
+GET {{CabTrack.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
